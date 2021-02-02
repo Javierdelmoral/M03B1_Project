@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-//Javier del Moral
+//Javier 
 
 public class M03B1_FinalProject {
 //Dades constants
